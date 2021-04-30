@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+ font-family: 'Georgia',serif;
+ font-size: 15px;
+}
+.product{
+    border: 1px solid #eaeaec;
+    margin: -1px 19px 3px -1px;
+    padding: 10px;
+    text-align: center;
+    background-color: #efefef;
+    }
+table, th, tr{
+    text-align: center;
+    }
+.title2{
+      text-align: center;
+      color: #66afe9;
+      background-color: #efefef;
+      padding: 2%;
+        }
+h2{
+    text-align: center;
+    color: #66afe9;
+    background-color: #efefef;
+    padding: 2%;
+        }
+table th{
+    background-color: #efefef;
+        }
